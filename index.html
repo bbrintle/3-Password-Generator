@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="./Assets/CSS/styles.css">
+  </head>
+  <body>
+    <div class="container">
+
+      <h1 class="header">Password Genorator</h1>
+
+      <h3 class="displayPass">Password</h3>
+
+      <form class="form">
+
+        <label for="passLength">Number of Characters</label>
+        <input class="inputBoxSize" type="number" min="8" max="50" id="passLength">
+
+        <label for="addLowCase">Include Lowercase</label>
+        <input type="checkbox" id="addLowCase">
+
+        <label for="addUpCase">Include Uppercase</label>
+        <input type="checkbox" id="addUpCase">
+
+        <label for="addNumbers">Include Numbers</label>
+        <input type="checkbox" id="addNumbers">
+
+        <label for="addChar">Include Characters</label>
+        <input type="checkbox" id="addChar">
+
+        <button class="btnStyle" id="btnGenerate" type="submit">Generate Password</button>
+
+      </form>
+
+    </div>
+    <script src="./Assets/JS/javascript.js"></script>
+  </body>
+</html>
