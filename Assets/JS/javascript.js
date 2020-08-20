@@ -10,8 +10,8 @@ var newPassword = [];
 var generatedPass = "";
 
 //Gather Check Box information to see if it has been checked
-var lowLetCheck = document.getElementById("addUpCase");
-var capLetCheck = document.getElementById("addLowCase");
+var capLetCheck = document.getElementById("addUpCase");
+var lowLetCheck = document.getElementById("addLowCase");
 var numArrayCheck = document.getElementById("addNumbers");
 var charArrayCheck = document.getElementById("addChar");
 
