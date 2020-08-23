@@ -9,7 +9,7 @@
 *   \CSS\       (Folder that holds CSS)
 
 * -User will be required to enter a number (or use up/down arrows in input box) 
-* between 8-50 which will decide the length of the password.
+* between 8-128 which will decide the length of the password.
 
 * -User selects the checkbox to determine what type of characters to use within
 * the password. (at least 1 must be selected or you will be sent an alert)
