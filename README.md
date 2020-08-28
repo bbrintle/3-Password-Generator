@@ -19,3 +19,5 @@
 
 * User can change any of the checkboxes at any time and also change the number of characters
 * at any time and repress the button to generate a new password.
+<a href="https://bbrintle.github.io/3-Password-Generator/">Password Generator</a>
+<img src="./Assets/Images/MainScreen.PNG">
