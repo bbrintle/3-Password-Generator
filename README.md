@@ -34,7 +34,11 @@ Javascript
 HTML/CSS
 
 ## Authors
-This was created by Blake Brintle.
+This was created by Blake Brintle. 
+<br>
+blakebrintle@gmail.com
+<br>
+<a href="https://bbrintle.github.io/">Blake's Site</a>
 
 
 ## License
