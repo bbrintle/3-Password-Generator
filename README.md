@@ -1,6 +1,6 @@
 # Password Generator (Homework - 3)
 
-* root folder contains:
+Root folder contains:
 
 * README.md      (Read Me File)
 * index.html     (Password Generator Page)
