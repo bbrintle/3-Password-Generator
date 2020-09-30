@@ -28,7 +28,9 @@ between 8-128 which will decide the length of the password.
 
 ## Resources Used
 Bootstrap
+<br>
 Javascript
+<br>
 HTML/CSS
 
 ## Authors
